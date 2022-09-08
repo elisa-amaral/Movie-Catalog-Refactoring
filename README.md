@@ -9,6 +9,8 @@ This project is a refactoring of the [Movie Catalog project](https://github.com/
 
 ## Technology Stack
 
+The project was built with:
+
 + JavaScript
 + AJAX
 + JSON
